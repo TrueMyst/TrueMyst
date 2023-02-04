@@ -2,7 +2,9 @@
 <img src = "http://imgs.xkcd.com/comics/fixing_problems.png" style = "border-radius: 50;" />
 </p>
 
-### Hi there! 👋, I'm TrueMyst aka [**myst.67**](https://github.com/TrueMyst/) ![Profile views](https://gpvc.arturio.dev/[TrueMyst])
+### Hi there! 👋, I'm TrueMyst aka [**myst.67**](https://github.com/myst.67/) 
+
+![Profile views](https://gpvc.arturio.dev/[TrueMyst])
 
 
 ## 🤦‍♂️ I am a student, Self-taught Programmer and a Software Developer
