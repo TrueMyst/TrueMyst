@@ -4,9 +4,6 @@
 
 ### Hi there! 👋, I'm TrueMyst aka [**myst.67**](https://github.com/myst.67/) 
 
-![Profile views](https://gpvc.arturio.dev/[TrueMyst])
-
-
 ## 🤦‍♂️ I am a student, Self-taught Programmer and a Software Developer
 
 
