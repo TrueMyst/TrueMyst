@@ -11,13 +11,6 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML & CSS**
 
-- 🏆 My Goals (2022): **Contribute to a variety of projects and try new things.**
-
-- 🎈 I want to **Boost my productivity and self-esteem**
-
-- ⚡ Fun Fact: **I am an introvert with a fear of heights, aka "Acrophobia."**
-
-
 
 
 <h3 align="left">💜 Connect with me:</h3>
