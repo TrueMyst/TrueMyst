@@ -7,7 +7,7 @@
 ## 🤦‍♂️ I am a student, Self-taught Programmer and a Software Developer
 
 
-- 🔭 I’m currently working on [**Hashily**](https://github.com/TrueMyst/hashily)
+- 🔭 I’m currently working on [**BeatPrints**](https://github.com/TrueMyst/BeatPrints)
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML & CSS**
 
