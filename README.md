@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Hi, I'm elysianmyst ☕</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=elysianmyst&label=  🫣&color=ed791a&style=for-the-badge" alt="elysianmyst"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=elysianmyst&label=_🫣_&color=ed791a&style=for-the-badge" alt="elysianmyst"/></p>
 <h4 align="center">A 16 year old trying to cook up some cool code concoctions on his own – self-taught and loving every bit of it!</h4>
 
 ### 🥞 What am I doing these days?
