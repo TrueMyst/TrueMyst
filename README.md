@@ -4,13 +4,13 @@
 
 <h3 align="center">Hi, I'm elysianmyst ☕</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=elysianmyst&label=_🫣_&color=ed791a&style=for-the-badge" alt="elysianmyst"/></p>
-<h4 align="center">A 16 year old trying to cook up some cool code concoctions on his own – self-taught and loving every bit of it!</h4>
+<h4 align="center">A 17 year old trying to cook up some cool code concoctions on his own – self-taught and loving every bit of it!</h4>
 
 ### 🥞 What am I doing these days?
-- 🔭 I’m looking to contribute to [Open Source Projects](https://opensource.com/resources/what-open-source)
-- 🌱 I try to learn new things by doing [cool projects](https://github.com/TrueMyst?tab=repositories)
-- 📑 Trying to broaden my experience in python and other various sort of tools
-- ☕ Neovim, Linux, and a little of competitive programming during my free time
+- 🔭 Looking to contribute to [Open Source Projects](https://opensource.com/resources/what-open-source)
+- 🌱 Learning new things by doing some [Cool Side Projects](https://github.com/TrueMyst?tab=repositories)
+- 📑 Trying to broaden my experience in Python and other tools that interest me
+- ☕ Neovim, Linux, and a little of bit competitive programming during my free time
 
 
 ### 📑 Take a look to my Github Stats :)
