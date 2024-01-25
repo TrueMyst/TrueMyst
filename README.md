@@ -1,31 +1,23 @@
 <p align = "center">
-<img src = "http://imgs.xkcd.com/comics/fixing_problems.png" style = "border-radius: 50;" />
+<img src = "https://i.ibb.co/Dr1smPY/interest-timescales-gruvbox-dark-hald8-Gaussian-RBF-lum0-8-shape96-near16.png"/>
 </p>
 
-### Hi there! 👋, I'm TrueMyst aka [**myst.67**](https://github.com/myst.67/) 
+<h3 align="center">Hi, I'm elysianmyst ☕</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=elysianmyst&label=  🫣&color=ed791a&style=for-the-badge" alt="elysianmyst"/></p>
+<h4 align="center">A 16 year old trying to cook up some cool code concoctions on his own – self-taught and loving every bit of it!</h4>
 
-## 🤦‍♂️ I am a student, Self-taught Programmer and a Software Developer
+### 🥞 What am I doing these days?
+- 🔭 I’m looking to contribute to [Open Source Projects](https://opensource.com/resources/what-open-source)
+- 🌱 I try to learn new things by doing [cool projects](https://github.com/TrueMyst?tab=repositories)
+- 📑 Trying to broaden my experience in python and other various sort of tools
+- ☕ Neovim, Linux, and a little of competitive programming during my free time
 
 
-- 🔭 I’m currently working on [**BeatPrints**](https://github.com/TrueMyst/BeatPrints)
-
-- 🌱 I’m currently learning **Python, JavaScript, HTML & CSS**
-
-
-
-<h3 align="left">💜 Connect with me:</h3>
-
-[![](https://discord.c99.nl/widget/theme-4/716564765303898152.png)](https://discord.gg/rFFkSteCUb)
-
-<p align="left">
+### 📑 Take a look to my Github Stats :)
+<p align="center">
+<a href="https://github.com/TrueMyst"><img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api?username=TrueMyst&show_icons=true&theme=gruvbox&border_radius=7.5&hide_border=true"/></a> 
+<a href="https://github.com/TrueMyst"><img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TrueMyst&theme=gruvbox&border_radius=7&hide_border=true&stroke=f53b3b%22&"/></a> 
 </p>
 
-<h3 align="left">🗝 Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=truemyst&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15" alt="truemyst"/>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=TrueMyst&show_icons=true&theme=tokyonight&border_radius=15" alt="truemyst"/>
-</p>
+### 🥱 Find me here!
+![](https://discord.c99.nl/widget/theme-4/716564765303898152.png)
